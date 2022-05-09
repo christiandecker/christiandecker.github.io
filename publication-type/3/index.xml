@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Academic</title>
+    <link>https://christiandecker.github.io/publication-type/3/</link>
+      <atom:link href="https://christiandecker.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://christiandecker.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>3</title>
+      <link>https://christiandecker.github.io/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>What&#39;s in a Five Star Rating? An Empirical Model of Bayesian Persuasion</title>
+      <link>https://christiandecker.github.io/progress/sbp/</link>
+      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://christiandecker.github.io/progress/sbp/</guid>
+      <description>&lt;p&gt;Draft available soon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pre-Registration and Credibility of Clinical Trials</title>
+      <link>https://christiandecker.github.io/progress/preregistration/</link>
+      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://christiandecker.github.io/progress/preregistration/</guid>
+      <description>&lt;p&gt;Draft available soon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Order of Move in a Conversational War of Attrition</title>
+      <link>https://christiandecker.github.io/progress/cwa/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://christiandecker.github.io/progress/cwa/</guid>
+      <description>&lt;p&gt;Draft available soon.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
