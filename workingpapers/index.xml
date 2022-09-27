@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Christian Decker</title>
+    <link>https://christiandecker.github.io/workingpapers/</link>
+      <atom:link href="https://christiandecker.github.io/workingpapers/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://christiandecker.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://christiandecker.github.io/workingpapers/</link>
+    </image>
+    
+    <item>
+      <title>The Order of Move in a Conversational War of Attrition</title>
+      <link>https://christiandecker.github.io/workingpapers/cwa/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://christiandecker.github.io/workingpapers/cwa/</guid>
+      <description>&lt;p&gt;Draft available upon request.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
