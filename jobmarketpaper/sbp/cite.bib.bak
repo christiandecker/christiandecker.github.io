@@ -1,13 +1,11 @@
 % Encoding: UTF-8
 
-@Article{adda2020p,
-  author  = {Adda, J{\'e}r{\^o}me and Decker, Christian and Ottaviani, Marco},
-  title   = {P-hacking in clinical trials and how incentives shape the distribution of results across phases},
-  journal = {Proceedings of the National Academy of Sciences},
-  year    = {2020},
-  volume  = {117},
-  number  = {24},
-  pages   = {13386--13392},
+@Article{Decker2022,
+  author  = {Christian Decker},
+  title   = {What's in a Five Star Rating? An Empirical Model of Bayesian Persuasion},
+  journal = {Working Paper},
+  year    = {2022},
+  month   = oct,
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
