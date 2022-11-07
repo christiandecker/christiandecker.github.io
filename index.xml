@@ -5,7 +5,7 @@
     <link>https://christiandecker.github.io/</link>
       <atom:link href="https://christiandecker.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Christian Decker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://christiandecker.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Christian Decker</title>
@@ -15,11 +15,12 @@
     <item>
       <title>What&#39;s in an Airbnb Five-Star Rating? An Empirical Model of Bayesian Persuasion</title>
       <link>https://christiandecker.github.io/jobmarketpaper/sbp/</link>
-      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
       <guid>https://christiandecker.github.io/jobmarketpaper/sbp/</guid>
       <description>&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt; &lt;br /&gt;
-I study the welfare effects of Airbnb’s customer rating system using a structural empirical model of Bayesian persuasion with moral hazard. This framework reveals that by pooling many listings of relatively lower quality at the `adequate&amp;rsquo; 5 stars, the current rating system design expands the set of listings customers may chose over alternative options and thereby increases Airbnb’s market shares and profits. I set up a numerically solvable demand model of the short-term accommodation market around this Bayesian persuasion problem and its interplay with the platform’s pricing decision and hosts’ decision to join the platform and exert costly effort to improve their quality. I exploit variation in the rating distribution and market conditions across 56 major travel destinations in the United States over the years 2018 and 2019 to structurally estimate this model and back out the distribution of unobserved quality. Counterfactual exercises suggest that (i) the platform would break down without a rating system, and (ii) Airbnb&amp;rsquo;s strategic rating system design led to a consumer welfare loss of USD288M and a redistribution of profits from high to medium quality hosts of almost USD750M compared to fully revealing ratings in the markets and period studied.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Draft coming soon.&lt;/strong&gt;&lt;/p&gt;
+This paper studies the welfare effects of Airbnb’s customer rating system using a structural empirical model of Bayesian persuasion with moral hazard. In 2019, over 71% of Airbnb listings in the United States displayed the highest possible rating of 5 stars. The Bayesian persuasion approach reveals that pooling all `adequate&amp;rsquo; qualities above a certain threshold in this 5-star rating expands the set of listings customers may choose over the outside options, thereby increasing Airbnb&amp;rsquo;s market shares and profits.	
+I embed the Bayesian persuasion rating system design problem in a numerically solvable demand model of the short-term accommodation market. Moreover, the model incorporates Airbnb’s pricing and the hosts’ decision to join the platform and exert costly effort to improve their quality. 
+I exploit variation in the rating distribution and market conditions across 56 major travel destinations in the United States over 2018 and 2019 to structurally estimate this model and back out the distribution of unobserved quality. Counterfactual exercises suggest that Airbnb&amp;rsquo;s strategic rating system design led to a consumer welfare loss of USD288M and a redistribution of profits from high- to medium-quality hosts of almost USD750M compared to fully revealing ratings in the markets and period studied.&lt;/p&gt;
 </description>
     </item>
     
@@ -28,7 +29,7 @@ I study the welfare effects of Airbnb’s customer rating system using a structu
       <link>https://christiandecker.github.io/progress/preregistration/</link>
       <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
       <guid>https://christiandecker.github.io/progress/preregistration/</guid>
-      <description>&lt;p&gt;Slide deck available &lt;a href=&#34;mailto:christian.decker@econ.uzh.ch&#34;&gt;upon request&lt;/a&gt;. Draft coming soon soon.&lt;/p&gt;
+      <description>&lt;p&gt;Slide deck available &lt;a href=&#34;mailto:christian.decker@econ.uzh.ch&#34;&gt;upon request&lt;/a&gt;. Draft coming soon.&lt;/p&gt;
 </description>
     </item>
     
