@@ -5,21 +5,12 @@
     <link>https://christiandecker.github.io/progress/</link>
       <atom:link href="https://christiandecker.github.io/progress/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>https://christiandecker.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://christiandecker.github.io/progress/</link>
     </image>
-    
-    <item>
-      <title>Pre-Registration and Credibility of Clinical Trials</title>
-      <link>https://christiandecker.github.io/progress/preregistration/</link>
-      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://christiandecker.github.io/progress/preregistration/</guid>
-      <description>&lt;p&gt;Slide deck available &lt;a href=&#34;mailto:christian.decker@econ.uzh.ch&#34;&gt;upon request&lt;/a&gt;. Draft coming soon.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>
