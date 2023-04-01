@@ -26,7 +26,7 @@
       <link>https://christiandecker.github.io/workingpapers/cwa/</link>
       <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://christiandecker.github.io/workingpapers/cwa/</guid>
-      <description>&lt;p&gt;I investigate, in part theoretically and in part computationally, when and how the order of move matters in a Conversational War of Attrition (Meyer-ter-Vehn, Smith, and Bognar, 2018). Switching the first mover flips the debate’s outcome for certain type-realizations and triggers two potentially opposing forces on jurors’ ex-ante expected costs. In the finite-horizon version of the game, there is a last-proposal advantage that prevails if the jurors’ bias dominates their impatience and a first-proposal advantage that prevails if impatience dominates bias. In the infinite-horizon version, there is an unambiguous first-proposal advantage. These mechanisms are reminiscent of the Rubinstein (1982) bargaining game.&lt;/p&gt;
+      <description>&lt;p&gt;This paper investigates computationally when and how the order of move matters in a Conversational War of Attrition (Meyer-ter-Vehn, Smith, and Bognar, 2018). Switching the first mover flips the debate’s outcome for certain type-realizations and triggers two potentially opposing forces on jurors’ ex-ante expected costs. In the finite-horizon version of the game, a last-proposal advantage prevails if the jurors’ bias dominates their impatience, and a first-proposal advantage prevails if impatience dominates bias. In the infinite-horizon version, there is an unambiguous first-proposal advantage. These mechanisms are reminiscent of the Rubinstein (1982) sequential bargaining game.&lt;/p&gt;
 </description>
     </item>
     
