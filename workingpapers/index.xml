@@ -5,7 +5,7 @@
     <link>https://christiandecker.github.io/workingpapers/</link>
       <atom:link href="https://christiandecker.github.io/workingpapers/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 24 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://christiandecker.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,32 +13,23 @@
     </image>
     
     <item>
+      <title>Preregistration and Credibility of Clinical Trials</title>
+      <link>https://christiandecker.github.io/workingpapers/preregistration/</link>
+      <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://christiandecker.github.io/workingpapers/preregistration/</guid>
+      <description>&lt;p&gt;Draft available &lt;a href=&#34;mailto:christian.decker@econ.uzh.ch&#34;&gt;upon request&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>What&#39;s in an Airbnb Five-Star Rating? An Empirical Model of Bayesian Persuasion</title>
       <link>https://christiandecker.github.io/workingpapers/sbp/</link>
-      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
       <guid>https://christiandecker.github.io/workingpapers/sbp/</guid>
       <description>&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt; &lt;br /&gt;
 This paper studies the welfare effects of Airbnb’s customer rating system using a structural empirical model of Bayesian persuasion with moral hazard. In 2019, over 71% of Airbnb listings in the United States displayed the highest possible rating of 5 stars. The Bayesian persuasion approach reveals that pooling all `adequate&amp;rsquo; qualities above a certain threshold in this 5-star rating expands the set of listings customers may choose over the outside options, thereby increasing Airbnb&amp;rsquo;s market shares and profits.	
 I embed the Bayesian persuasion rating system design problem in a numerically solvable demand model of the short-term accommodation market. Moreover, the model incorporates Airbnb’s pricing and the hosts’ decision to join the platform and exert costly effort to improve their quality. 
 I exploit variation in the rating distribution and market conditions across 56 major travel destinations in the United States over 2018 and 2019 to structurally estimate this model and back out the distribution of unobserved quality. Counterfactual exercises suggest that Airbnb&amp;rsquo;s strategic rating system design led to a consumer welfare loss of USD288M and a redistribution of profits from high- to medium-quality hosts of almost USD750M compared to fully revealing ratings in the markets and period studied.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Pre-Registration and Credibility of Clinical Trials</title>
-      <link>https://christiandecker.github.io/workingpapers/preregistration/</link>
-      <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://christiandecker.github.io/workingpapers/preregistration/</guid>
-      <description>&lt;p&gt;Slide deck available &lt;a href=&#34;mailto:christian.decker@econ.uzh.ch&#34;&gt;upon request&lt;/a&gt;. Draft coming soon.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The Order of Move in a Conversational War of Attrition</title>
-      <link>https://christiandecker.github.io/workingpapers/cwa/</link>
-      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://christiandecker.github.io/workingpapers/cwa/</guid>
-      <description>&lt;p&gt;This paper investigates computationally when and how the order of move matters in a Conversational War of Attrition (Meyer-ter-Vehn, Smith, and Bognar, 2018). Switching the first mover flips the debate’s outcome for certain type-realizations and triggers two potentially opposing forces on jurors’ ex-ante expected costs. In the finite-horizon version of the game, a last-proposal advantage prevails if the jurors’ bias dominates their impatience, and a first-proposal advantage prevails if impatience dominates bias. In the infinite-horizon version, there is an unambiguous first-proposal advantage. These mechanisms are reminiscent of the Rubinstein (1982) sequential bargaining game.&lt;/p&gt;
 </description>
     </item>
     

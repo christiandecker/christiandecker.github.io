@@ -5,12 +5,21 @@
     <link>https://christiandecker.github.io/publication/</link>
       <atom:link href="https://christiandecker.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://christiandecker.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://christiandecker.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>The Order of Move in a Conversational War of Attrition</title>
+      <link>https://christiandecker.github.io/publication/cwa/</link>
+      <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://christiandecker.github.io/publication/cwa/</guid>
+      <description>&lt;p&gt;This paper investigates computationally when and how the order of move matters in a Conversational War of Attrition (Meyer-ter-Vehn, Smith, and Bognar, 2018). Switching the first mover flips the debate’s outcome for certain type-realizations and triggers two potentially opposing forces on jurors’ ex-ante expected costs. In the finite-horizon version of the game, a last-proposal advantage prevails if the jurors’ bias dominates their impatience, and a first-proposal advantage prevails if impatience dominates bias. In the infinite-horizon version, there is an unambiguous first-proposal advantage. These mechanisms are reminiscent of the Rubinstein (1982) sequential bargaining game.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>P-hacking in clinical trials and how incentives shape the distribution of results across phases</title>

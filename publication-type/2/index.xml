@@ -5,7 +5,7 @@
     <link>https://christiandecker.github.io/publication-type/2/</link>
       <atom:link href="https://christiandecker.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://christiandecker.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
@@ -13,20 +13,20 @@
     </image>
     
     <item>
-      <title>Pre-Registration and Credibility of Clinical Trials</title>
-      <link>https://christiandecker.github.io/workingpapers/preregistration/</link>
-      <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://christiandecker.github.io/workingpapers/preregistration/</guid>
-      <description>&lt;p&gt;Slide deck available &lt;a href=&#34;mailto:christian.decker@econ.uzh.ch&#34;&gt;upon request&lt;/a&gt;. Draft coming soon.&lt;/p&gt;
+      <title>The Order of Move in a Conversational War of Attrition</title>
+      <link>https://christiandecker.github.io/publication/cwa/</link>
+      <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://christiandecker.github.io/publication/cwa/</guid>
+      <description>&lt;p&gt;This paper investigates computationally when and how the order of move matters in a Conversational War of Attrition (Meyer-ter-Vehn, Smith, and Bognar, 2018). Switching the first mover flips the debate’s outcome for certain type-realizations and triggers two potentially opposing forces on jurors’ ex-ante expected costs. In the finite-horizon version of the game, a last-proposal advantage prevails if the jurors’ bias dominates their impatience, and a first-proposal advantage prevails if impatience dominates bias. In the infinite-horizon version, there is an unambiguous first-proposal advantage. These mechanisms are reminiscent of the Rubinstein (1982) sequential bargaining game.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>The Order of Move in a Conversational War of Attrition</title>
-      <link>https://christiandecker.github.io/workingpapers/cwa/</link>
-      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://christiandecker.github.io/workingpapers/cwa/</guid>
-      <description>&lt;p&gt;This paper investigates computationally when and how the order of move matters in a Conversational War of Attrition (Meyer-ter-Vehn, Smith, and Bognar, 2018). Switching the first mover flips the debate’s outcome for certain type-realizations and triggers two potentially opposing forces on jurors’ ex-ante expected costs. In the finite-horizon version of the game, a last-proposal advantage prevails if the jurors’ bias dominates their impatience, and a first-proposal advantage prevails if impatience dominates bias. In the infinite-horizon version, there is an unambiguous first-proposal advantage. These mechanisms are reminiscent of the Rubinstein (1982) sequential bargaining game.&lt;/p&gt;
+      <title>Preregistration and Credibility of Clinical Trials</title>
+      <link>https://christiandecker.github.io/workingpapers/preregistration/</link>
+      <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://christiandecker.github.io/workingpapers/preregistration/</guid>
+      <description>&lt;p&gt;Draft available &lt;a href=&#34;mailto:christian.decker@econ.uzh.ch&#34;&gt;upon request&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
