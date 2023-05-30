@@ -17,7 +17,7 @@
       <link>https://christiandecker.github.io/workingpapers/preregistration/</link>
       <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://christiandecker.github.io/workingpapers/preregistration/</guid>
-      <description>&lt;p&gt;Draft available &lt;a href=&#34;mailto:christian.decker@econ.uzh.ch&#34;&gt;upon request&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Preregistration at public research registries is considered a promising solution to the credibility crisis in science, but empirical evidence of its actual benefit is limited. Guaranteeing research integrity is especially vital in clinical research, where human lives are at stake and investigators might suffer from financial pressure. This paper analyzes the distribution of p-values from pre-approval drug trials reported to &lt;em&gt;ClinicalTrials.gov&lt;/em&gt;, the largest registry for research studies in human volunteers, conditional on the preregistration status. The z-score density of non-preregistered trials displays a significant upward discontinuity at the salient 5% threshold for statistical significance, indicative of p-hacking or selective reporting. The density of preregistered trials appears smooth at this threshold. With caliper tests, we establish that these differences between preregistered and non-preregistered trials are robust when conditioning on sponsor fixed effects and other design features commonly indicative of research integrity, such as blinding and data monitoring committees. Our results suggest that preregistration is a credible signal for the integrity of clinical trials, as far as it can be assessed with the currently available methods to detect p-hacking.&lt;/p&gt;
 </description>
     </item>
     
